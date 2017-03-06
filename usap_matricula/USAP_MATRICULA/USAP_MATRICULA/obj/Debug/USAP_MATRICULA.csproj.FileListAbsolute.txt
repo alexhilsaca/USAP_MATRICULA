@@ -1,0 +1,18 @@
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\USAP_MATRICULA\USAP_MATRICULA\bin\Debug\USAP_MATRICULA.exe.config
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\USAP_MATRICULA\USAP_MATRICULA\bin\Debug\USAP_MATRICULA.exe
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\USAP_MATRICULA\USAP_MATRICULA\bin\Debug\USAP_MATRICULA.pdb
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.csprojResolveAssemblyReference.cache
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.frm_Principal.resources
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.Properties.Resources.resources
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.csproj.GenerateResource.Cache
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.exe
+C:\Users\Alex Hilsaca\PASCAL_CSHARP_COMPILER\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.pdb
+C:\Users\Alex Hilsaca\Documents\Visual Studio 2015\Projects\USAP_MATRICULA\USAP_MATRICULA\bin\Debug\USAP_MATRICULA.exe.config
+C:\Users\Alex Hilsaca\Documents\Visual Studio 2015\Projects\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.exe
+C:\Users\Alex Hilsaca\Documents\Visual Studio 2015\Projects\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.pdb
+C:\Users\Alex Hilsaca\Documents\Visual Studio 2015\Projects\USAP_MATRICULA\USAP_MATRICULA\bin\Debug\USAP_MATRICULA.exe
+C:\Users\Alex Hilsaca\Documents\Visual Studio 2015\Projects\USAP_MATRICULA\USAP_MATRICULA\bin\Debug\USAP_MATRICULA.pdb
+C:\Users\Alex Hilsaca\Documents\Visual Studio 2015\Projects\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.csprojResolveAssemblyReference.cache
+C:\Users\Alex Hilsaca\Documents\Visual Studio 2015\Projects\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.frm_Principal.resources
+C:\Users\Alex Hilsaca\Documents\Visual Studio 2015\Projects\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.Properties.Resources.resources
+C:\Users\Alex Hilsaca\Documents\Visual Studio 2015\Projects\USAP_MATRICULA\USAP_MATRICULA\obj\Debug\USAP_MATRICULA.csproj.GenerateResource.Cache
