@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Datos.cs" />
+    <Compile Include="DB_A19EA8_alexhilsacaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DB_A19EA8_alexhilsacaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Login.Designer.cs">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_Principal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_Login.resx">
+      <DependentUpon>frm_Login.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_Principal.resx">
       <DependentUpon>frm_Principal.cs</DependentUpon>
     </EmbeddedResource>
@@ -67,6 +82,17 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="DB_A19EA8_alexhilsacaDataSet.xsc">
+      <DependentUpon>DB_A19EA8_alexhilsacaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DB_A19EA8_alexhilsacaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DB_A19EA8_alexhilsacaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DB_A19EA8_alexhilsacaDataSet.xss">
+      <DependentUpon>DB_A19EA8_alexhilsacaDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -97,6 +123,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Home_50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Student Male-50.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

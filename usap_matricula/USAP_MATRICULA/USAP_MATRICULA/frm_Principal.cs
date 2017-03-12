@@ -36,5 +36,12 @@ namespace USAP_MATRICULA
         {
 
         }
+
+        private void btn_identificate_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frm_Login frm = new frm_Login();
+            frm.Show();
+        }
     }
 }
